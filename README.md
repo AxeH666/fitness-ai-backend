@@ -5,7 +5,7 @@ This is the backend system for an AI-powered personal fitness assistant. It gene
 ---
 
 ## 🚀 Features
-- 🧠 AI-generated meal plans (Groq + LLaMA 3)
+- 🧠 AI-generated meal plans (Groq + LLaMA)
 - 🏋️ Workout plans based on goal, days, equipment, injuries, and menstrual phase
 - 🔢 Calorie & macronutrient calculator (TDEE-based)
 - 🌤️ Daily motivational message (gender + cycle-aware)
