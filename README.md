@@ -1,6 +1,6 @@
 # AI-Powered Fitness Assistant (Backend MVP)
 
-This is the backend system for an AI-powered personal fitness assistant. It generates personalized meal plans, workout routines, and motivational messages based on user profile data — including cycle-aware logic for female users. Powered by LLaMA 3 70B (via Groq), the app delivers secure, intelligent fitness advice with modular API endpoints.
+This is the backend system for an AI-powered personal fitness assistant. It generates personalized meal plans, workout routines, and motivational messages based on user profile data — including cycle-aware logic for female users. Powered by LLaMA 2 3B (via Groq), the app delivers secure, intelligent fitness advice with modular API endpoints.
 
 ---
 
